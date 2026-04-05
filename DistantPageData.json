@@ -17,7 +17,7 @@
           { "name": "Інформатика (2 група)", "type": "ОЧНО О 13:10", "emoji": "IT" }
         ]
       },
-      { "name": "Математика", "type": "ОЧНО О 14:05", "emoji": "Algebra", "time": "14:05" },
+      { "name": "Алгебра", "type": "ОЧНО О 14:05", "emoji": "Algebra", "time": "14:05" },
       {
         "name": "Інформатика",
         "emoji": "IT",
@@ -39,7 +39,7 @@
       { "name": "Перехід", "type": "ПЕРЕХІД", "emoji": "Transition", "time": "11:10" },
       { "name": "Хімія", "type": "ОЧНО О 12:05", "emoji": "Chemistry", "time": "12:05" },
       { "name": "Хімія", "type": "ОЧНО О 13:10", "emoji": "Chemistry", "time": "13:10" },
-      { "name": "Математика", "type": "ОЧНО О 14:05", "emoji": "Algebra", "time": "14:05" },
+      { "name": "Алгебра", "type": "ОЧНО О 14:05", "emoji": "Algebra", "time": "14:05" },
       { "name": "Фізика", "type": "ОЧНО О 14:55", "emoji": "Physics", "time": "14:55" }
     ]
   },
@@ -101,10 +101,10 @@
           { "name": "Інформатика (2 група)", "type": "АСИНХРОННО", "emoji": "IT" }
         ]
       },
-      { "name": "Математика", "type": "АСИНХРОННО", "emoji": "Algebra", "time": "10:15" },
+      { "name": "Геометрія", "type": "АСИНХРОННО", "emoji": "Geometry", "time": "10:15" },
       { "name": "Перехід", "type": "ПЕРЕХІД", "emoji": "Transition", "time": "11:10" },
       { "name": "Біологія", "type": "ОЧНО О 12:05", "emoji": "Biology", "time": "12:05" },
-      { "name": "Математика", "type": "ОЧНО О 13:10", "emoji": "Algebra", "time": "13:10" },
+      { "name": "Геометрія", "type": "ОЧНО О 13:10", "emoji": "Geometry", "time": "13:10" },
       { "name": "Фізична культура", "type": "ОЧНО О 14:05", "emoji": "PE", "time": "14:05" },
       { "name": "Географія", "type": "ОЧНО О 14:55", "emoji": "Geography", "time": "14:55" }
     ]
