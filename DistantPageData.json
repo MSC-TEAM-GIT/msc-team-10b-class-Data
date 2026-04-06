@@ -2,7 +2,7 @@
   {
     "day": "Понеділок | 6 квітня",
     "lessons": [
-      { "name": "Ранкова зустріч", "type": "СИНХРОННО О 08:00", "emoji": "ClassTeacher", "time": "08:00" },
+      { "name": "Ранкова зустріч", "type": "АСИНХРОННО", "emoji": "ClassTeacher", "time": "08:00" },
       { "name": "Фізика", "type": "СИНХРОННО О 08:15", "emoji": "Physics", "time": "08:15" },
       { "name": "Мистецтво", "type": "АСИНХРОННО", "emoji": "Art", "time": "09:10" },
       { "name": "Українська мова", "type": "СИНХРОННО О 10:15", "emoji": "UaLang", "time": "10:15" },
@@ -46,7 +46,7 @@
   {
     "day": "Середа | 8 квітня",
     "lessons": [
-      { "name": "Ранкова зустріч", "type": "СИНХРОННО О 08:00", "emoji": "ClassTeacher", "time": "08:00" },
+      { "name": "Ранкова зустріч", "type": "АСИНХРОННО", "emoji": "ClassTeacher", "time": "08:00" },
       {
         "name": "Інформатика",
         "emoji": "IT",
@@ -82,7 +82,7 @@
   {
     "day": "П'ятниця | 10 квітня",
     "lessons": [
-      { "name": "Ранкова зустріч", "type": "СИНХРОННО О 08:00", "emoji": "ClassTeacher", "time": "08:00" },
+      { "name": "Ранкова зустріч", "type": "АСИНХРОННО", "emoji": "ClassTeacher", "time": "08:00" },
       {
         "name": "Інформатика",
         "emoji": "IT",
